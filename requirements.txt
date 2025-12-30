@@ -1,6 +1,0 @@
-pyTelegramBotAPI==4.20.0
-requests==2.31.0
-python-dotenv==1.0.0
-beautifulsoup4==4.12.3
-html5lib==1.1
-fake-useragent==1.4.0  # Добавляем для генерации User-Agent
